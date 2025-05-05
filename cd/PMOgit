@@ -1,1 +1,3 @@
+echo " Timeline for first half " > schedule.txt
+touch expenses.xlsx
 
